@@ -10,6 +10,6 @@
 
 ## Screenshots:
 <p style="display: flex; flex-direction: row; justify-content: space-between; align: center;">
-  <img src="Screenshot1.png" width="50%" title="hover text">
+  <img src="Screenshot1.png" width="20%" title="hover text">
   <img src="Screenshot2.png" width="50%" alt="accessibility text">
 </p>
