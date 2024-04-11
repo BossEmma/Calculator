@@ -10,3 +10,4 @@
 
 ## Screenshots:
   ![screenshot](Screenshot1.png)
+  ![screenshot](Screenshot2.png)
