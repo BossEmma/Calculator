@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CalculatorApp",
-    "slug": "CalculatorApp",
+    "name": "Calculator",
+    "slug": "calculatorapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./app/assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./app/assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "black"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -26,6 +26,12 @@
     },
     "web": {
       "favicon": "./app/assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "766f3013-64eb-4c4f-8c01-a8e2f69ce0bf"
+      }
+    },
+    "owner": "bossemmanuel"
   }
 }
