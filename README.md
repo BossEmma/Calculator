@@ -9,5 +9,7 @@
 ### Addition, Subtraction, Division, Multiplication, Percentage
 
 ## Screenshots:
-  ![screenshot](Screenshot1.png)
-  ![screenshot](Screenshot2.png)
+<p align="center">
+  <img src="Screenshot1.png" width="350" title="hover text">
+  <img src="Screenshot2.png" width="350" alt="accessibility text">
+</p>
